@@ -1,0 +1,291 @@
+{
+ "v": 1,
+ "updated": "2026-10-11T00:41:56.000Z",
+ "probe": "GitHub Actions (Linux)",
+ "intervalMin": 5,
+ "targets": [
+  {
+   "id": "destindia",
+   "name": "Dest India",
+   "url": "https://www.destindia.com",
+   "status": "up",
+   "code": 200,
+   "latency": 676,
+   "checkedAt": "2026-10-11T00:41:56.000Z",
+   "since": "2026-10-04T06:16:34.000Z",
+   "checks24h": 6,
+   "uptime24h": 66.67,
+   "uptime7d": 63.64,
+   "p50": 676,
+   "p95": 1069,
+   "spark": [
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": true,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": true,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 706,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 571,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 1069,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 676,
+     "down": false,
+     "n": 1
+    }
+   ],
+   "incidents": [
+    {
+     "start": "2026-10-07T22:11:48.000Z",
+     "end": "2026-10-10T14:35:26.000Z",
+     "code": 530,
+     "ongoing": false
+    }
+   ]
+  },
+  {
+   "id": "talentacquire",
+   "name": "TalentAcquire",
+   "url": "https://www.talentaccquire.com",
+   "status": "up",
+   "code": 200,
+   "latency": 847,
+   "checkedAt": "2026-10-11T00:41:56.000Z",
+   "since": "2026-10-04T06:16:34.000Z",
+   "checks24h": 6,
+   "uptime24h": 100,
+   "uptime7d": 100,
+   "p50": 847,
+   "p95": 959,
+   "spark": [
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 813,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 959,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 849,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 783,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 864,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 847,
+     "down": false,
+     "n": 1
+    }
+   ],
+   "incidents": []
+  }
+ ]
+}
