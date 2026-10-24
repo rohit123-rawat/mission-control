@@ -1,0 +1,284 @@
+{
+ "v": 1,
+ "updated": "2026-10-24T08:50:16.000Z",
+ "probe": "GitHub Actions (Linux)",
+ "intervalMin": 5,
+ "targets": [
+  {
+   "id": "destindia",
+   "name": "Dest India",
+   "url": "https://www.destindia.com",
+   "status": "up",
+   "code": 200,
+   "latency": 178,
+   "checkedAt": "2026-10-24T08:50:16.000Z",
+   "since": "2026-10-17T10:36:06.000Z",
+   "checks24h": 7,
+   "uptime24h": 100,
+   "uptime7d": 100,
+   "p50": 226,
+   "p95": 1572,
+   "spark": [
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 236,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 201,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 1572,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 226,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 1522,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 178,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 178,
+     "down": false,
+     "n": 1
+    }
+   ],
+   "incidents": []
+  },
+  {
+   "id": "talentacquire",
+   "name": "TalentAcquire",
+   "url": "https://www.talentaccquire.com",
+   "status": "up",
+   "code": 200,
+   "latency": 847,
+   "checkedAt": "2026-10-24T08:50:16.000Z",
+   "since": "2026-10-17T10:36:06.000Z",
+   "checks24h": 7,
+   "uptime24h": 100,
+   "uptime7d": 100,
+   "p50": 874,
+   "p95": 1584,
+   "spark": [
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 1502,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 1584,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 895,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 874,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 797,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 723,
+     "down": false,
+     "n": 1
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": null,
+     "down": false,
+     "n": 0
+    },
+    {
+     "ms": 847,
+     "down": false,
+     "n": 1
+    }
+   ],
+   "incidents": []
+  }
+ ]
+}
